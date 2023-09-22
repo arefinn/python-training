@@ -9,4 +9,4 @@ def get_common_numbers(numbers1, numbers2):
 numbers1 = [number for number in range(1,11)]
 numbers2 = [number for number in range(5,16)]
 
-get_common_numbers(numbers1, numbers2) 
+get_common_numbers(numbers1, numbers2)
