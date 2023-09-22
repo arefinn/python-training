@@ -1,3 +1,4 @@
+# Write a function that takes 2 arrays and prints the members of the first array that are present in the second array.
 def get_common_numbers(numbers1, numbers2):
     common_numbers = list()
     for number in numbers1:

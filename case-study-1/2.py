@@ -1,3 +1,4 @@
+# Write a function to check if the year number is a leap year.
 def is_leap_year(year):
     if year % 4 == 0:
         print("Leap year")
