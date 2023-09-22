@@ -1,3 +1,4 @@
+# Write a function to take an array and return another array that contains the members of the first array that are even.
 def get_even_numbers(numbers):
     even_numbers = list()
     for number in numbers:
